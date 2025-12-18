@@ -292,9 +292,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or issues, please open an issue on GitHub or contact:
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/TrgPhan/AIT3001-2_DL_Assignment](https://github.com/TrgPhan/AIT3001-2_DL_Assignment)
+- **Author**: Phan Quang Trường
+- **Email**: 23020443@vnu.edu.vn
+- **Project Link**: [https://github.com/TrgPhan/LRD-PEFT](https://github.com/TrgPhan/LRD-PEFT)
 
 ---
 
