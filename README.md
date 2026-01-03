@@ -117,8 +117,6 @@ set_seed(config.training.seed)
 
 ### 💻 Programmatic Usage
 
-### 💻 Programmatic Usage
-
 ```python
 from src.model import TeacherModel, StudentModel
 from src.distillation import CombinedDistillationLoss
